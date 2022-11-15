@@ -1,0 +1,13 @@
+
+h1:Visual Studio Code
+
+Som med allt hantverk, gäller det i även i programmering att ha verktygen i skick. I programmering är grundverktyget en fungerande kodeditor. Genom tiderna har det funnits stolta kodare som jobbar med notepad eller unix-baserade vi, vilka faktiskt är textediterare. Det är då inte helt ovanligt att behöva t.ex. Vi:s efterträdare vim eller liknande även idag, men före det skall vi mjuklanda med modern och fungerande kodeditor VS Code.
+
+VS code kan laddas ner på https://code.visualstudio.com/
+
+Tillägg för HTML och CSS
+
+ - icons Visar filtetypernas ikoner så man snabbt känner igen filtypen.
+ - live-server Glöm refreshandet av browsern då du gör ändringar och låt live-server göra det automatiskt då du sparar filer i ditt projekt.
+ - prettier Snyggar upp din kod
+ - color info visar färgen och färgkoder (hex, rgb, hsl, cmyk…)

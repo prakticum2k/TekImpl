@@ -1,0 +1,9 @@
+h1:Document Object Model
+
+Ett HTML dokument består av Noder som bygger upp DOM, Document Object Model => HTML-sidan
+
+Metoder för att hantera dem (CSS, Javascript)
+
+h3:Web Developer Tools
+
+[bild: DOM på developer tools]
